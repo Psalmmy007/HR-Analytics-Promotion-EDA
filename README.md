@@ -1,4 +1,3 @@
-# HR-Analytics-Promotion-EDA
 # Workforce Analytics: Optimizing Corporate Talent Pipelines
 
 Exploratory Data Analysis on 54,800+ employee records to identify the real drivers behind
